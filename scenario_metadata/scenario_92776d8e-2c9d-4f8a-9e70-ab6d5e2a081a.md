@@ -1,0 +1,20 @@
+Noun: Yokai
+Society: Lithe
+Physical: Guild
+Positive: Courageous
+Negative: Joyless
+Culture: Kinship
+Events: Uprising
+Geography: Plateau
+Religion: Paganism
+Economics: Capitalism
+Diets: Coprophagous
+Tech: Iron Age
+Nature: Dominant
+Conflict: Isolation
+Occupations: Scholar
+Symbols: Mountain
+Architecture: Igloo
+Language: Guttral
+Fashion: Naturalistic
+Laws: Socialist

@@ -1,0 +1,20 @@
+Noun: Wights
+Society: Webbed
+Physical: Tellurocracy
+Positive: Dynamic
+Negative: Inconsistent
+Culture: Scholarly
+Events: Reformation
+Geography: Dunes
+Religion: Dualism
+Economics: Green economy
+Diets: Frugivorous
+Tech: Renaissance
+Nature: Dominant
+Conflict: Intimidation
+Occupations: Seer
+Symbols: Willow
+Architecture: Fort
+Language: Polysynthetic
+Fashion: Status-oriented
+Laws: Restorative

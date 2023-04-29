@@ -1,0 +1,20 @@
+Noun: Pegasus
+Society: Glistening
+Physical: Stratocracy
+Positive: Chivalrous
+Negative: Cold
+Culture: Stoic
+Events: Uprising
+Geography: Rift Valley
+Religion: Shamanism
+Economics: Capitalism
+Diets: Lignivorous
+Tech: Arcane
+Nature: Coexistent
+Conflict: Isolation
+Occupations: Hunter
+Symbols: Rose
+Architecture: Treehouse
+Language: Consonant-rich
+Fashion: Seasonal
+Laws: Communal

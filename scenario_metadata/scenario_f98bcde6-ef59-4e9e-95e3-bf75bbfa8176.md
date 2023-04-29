@@ -1,0 +1,20 @@
+Noun: Nagas
+Society: Spiraled
+Physical: Egalitarianism
+Positive: Spontaneous
+Negative: Inconsistent
+Culture: Independence
+Events: Revolution
+Geography: Glaciers
+Religion: Deism
+Economics: Socialism
+Diets: Planktivorous
+Tech: Arcane
+Nature: Coexistent
+Conflict: Confrontational
+Occupations: Bard
+Symbols: Dragon
+Architecture: Cave dwellings
+Language: Whistled
+Fashion: Uniform
+Laws: Democratic

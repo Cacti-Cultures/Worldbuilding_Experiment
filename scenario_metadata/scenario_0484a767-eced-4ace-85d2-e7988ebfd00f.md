@@ -1,0 +1,20 @@
+Noun: Mummies
+Society: Robust
+Physical: Kraterocracy
+Positive: Precise
+Negative: Hostile
+Culture: Hospitality
+Events: Revolution
+Geography: Bayou
+Religion: Polytheism
+Economics: Informal economy
+Diets: Herbivorous
+Tech: Renaissance
+Nature: Harmonious
+Conflict: Passive
+Occupations: Warrior
+Symbols: Bear
+Architecture: Fort
+Language: Verb-less
+Fashion: Layered
+Laws: Egalitarian

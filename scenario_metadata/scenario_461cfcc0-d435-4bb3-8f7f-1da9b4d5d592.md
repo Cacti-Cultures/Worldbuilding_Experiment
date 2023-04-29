@@ -1,0 +1,20 @@
+Noun: Nagas
+Society: Luminescent
+Physical: Thalassocracy
+Positive: Precise
+Negative: Arrogant
+Culture: Conservation
+Events: Treaty
+Geography: Wetlands
+Religion: Gnosticism
+Economics: Communalism
+Diets: Coprophagous
+Tech: Wind
+Nature: Respectful
+Conflict: Avoidance
+Occupations: Artisan
+Symbols: Willow
+Architecture: Underground city
+Language: Agglutinative
+Fashion: Ornate
+Laws: Egalitarian

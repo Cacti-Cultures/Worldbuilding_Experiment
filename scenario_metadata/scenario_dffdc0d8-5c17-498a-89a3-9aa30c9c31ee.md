@@ -1,0 +1,20 @@
+Noun: Ogres
+Society: Fiery
+Physical: Gerontocracy
+Positive: Proactive
+Negative: Vengeful
+Culture: Discipline
+Events: Plague
+Geography: Peaks
+Religion: Theism
+Economics: Mercantilism
+Diets: Herbivorous
+Tech: Industrial
+Nature: Exploitative
+Conflict: Aggressive
+Occupations: Miner
+Symbols: Dragon
+Architecture: Cliffside dwellings
+Language: Inflected
+Fashion: Naturalistic
+Laws: Anarchic

@@ -1,0 +1,20 @@
+Noun: Sprites
+Society: Fiery
+Physical: Collective
+Positive: Ambitious
+Negative: Unambitious
+Culture: Scholarly
+Events: War
+Geography: Peaks
+Religion: Apatheism
+Economics: Collectivism
+Diets: Sanguivorous
+Tech: Medieval
+Nature: Utilitarian
+Conflict: Coercion
+Occupations: Weaver
+Symbols: Bear
+Architecture: Hillside dwellings
+Language: Staccato
+Fashion: Ritualistic
+Laws: Oligarchic

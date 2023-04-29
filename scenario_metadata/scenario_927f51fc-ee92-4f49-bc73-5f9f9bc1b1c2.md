@@ -1,0 +1,20 @@
+Noun: Kodama
+Society: Massive
+Physical: Bureaucracy
+Positive: Fair
+Negative: Pessimistic
+Culture: Loyalty
+Events: Uprising
+Geography: Taiga
+Religion: Mysticism
+Economics: Capitalism
+Diets: Carnivorous
+Tech: Arcane
+Nature: Sustainable
+Conflict: Retribution
+Occupations: Brewer
+Symbols: Willow
+Architecture: Underwater city
+Language: Vowel-heavy
+Fashion: Symbolic
+Laws: Anarchic

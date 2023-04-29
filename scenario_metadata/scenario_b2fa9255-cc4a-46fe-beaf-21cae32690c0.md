@@ -1,0 +1,20 @@
+Noun: Norns
+Society: Bulbous
+Physical: Capitalist
+Positive: Tolerant
+Negative: Arrogant
+Culture: Harmony
+Events: Invasion
+Geography: Bayou
+Religion: Asceticism
+Economics: Collectivism
+Diets: Coprophagous
+Tech: Iron Age
+Nature: Indifferent
+Conflict: Retribution
+Occupations: Artisan
+Symbols: Stars
+Architecture: Yurt
+Language: Rhythmic
+Fashion: Minimalistic
+Laws: Oligarchic

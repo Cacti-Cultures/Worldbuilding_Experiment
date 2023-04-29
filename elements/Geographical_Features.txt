@@ -1,0 +1,20 @@
+Highlands
+Wetlands
+Glaciers
+Canyons
+Savannah
+Rainforest
+Archipelago
+Tundra
+Caverns
+Steppes
+Badlands
+Marshlands
+Dunes
+Taiga
+Plateau
+Rift Valley
+Coral Reefs
+Peaks
+Grotto
+Bayou

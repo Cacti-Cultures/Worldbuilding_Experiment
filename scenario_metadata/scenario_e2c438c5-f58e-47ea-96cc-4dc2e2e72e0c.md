@@ -1,0 +1,20 @@
+Noun: Nymphs
+Society: Quilled
+Physical: Kakistocracy
+Positive: Creative
+Negative: Anxious
+Culture: Artistic
+Events: Prosperity
+Geography: Badlands
+Religion: Spiritualism
+Economics: Syndicalism
+Diets: Frugivorous
+Tech: Iron Age
+Nature: Parasitic
+Conflict: Confrontational
+Occupations: Artisan
+Symbols: Serpent
+Architecture: Burrow
+Language: Vowel-heavy
+Fashion: Minimalistic
+Laws: Constitutional

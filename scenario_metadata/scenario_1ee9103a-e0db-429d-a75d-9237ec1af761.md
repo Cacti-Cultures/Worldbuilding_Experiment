@@ -1,0 +1,20 @@
+Noun: Ogres
+Society: Oozing
+Physical: Magocracy
+Positive: Content
+Negative: Quitter
+Culture: Honor
+Events: Renaissance
+Geography: Canyons
+Religion: Gnosticism
+Economics: Mercantilism
+Diets: Herbivorous
+Tech: Industrial
+Nature: Indifferent
+Conflict: Combative
+Occupations: Gatherer
+Symbols: Phoenix
+Architecture: Cave dwellings
+Language: Guttral
+Fashion: Naturalistic
+Laws: Authoritative

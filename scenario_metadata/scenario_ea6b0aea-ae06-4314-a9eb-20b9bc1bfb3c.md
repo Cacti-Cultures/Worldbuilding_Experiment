@@ -1,0 +1,20 @@
+Noun: Banshees
+Society: Icy
+Physical: Despotism
+Positive: Patient
+Negative: Dull
+Culture: Tradition
+Events: Reformation
+Geography: Rainforest
+Religion: Polytheism
+Economics: Informal economy
+Diets: Nectarivorous
+Tech: Renaissance
+Nature: Manipulative
+Conflict: Absolution
+Occupations: Blacksmith
+Symbols: Oak
+Architecture: Burrow
+Language: Isolating
+Fashion: Feathered
+Laws: Monarchic

@@ -1,0 +1,20 @@
+Noun: Zombies
+Society: Agile
+Physical: Dictatorship
+Positive: Tenacious
+Negative: Pessimistic
+Culture: Creativity
+Events: Awakening
+Geography: Plateau
+Religion: Deism
+Economics: Informal economy
+Diets: Insectivorous
+Tech: Medieval
+Nature: Protective
+Conflict: Coercion
+Occupations: Artisan
+Symbols: Willow
+Architecture: Igloo
+Language: Isolating
+Fashion: Layered
+Laws: Authoritative

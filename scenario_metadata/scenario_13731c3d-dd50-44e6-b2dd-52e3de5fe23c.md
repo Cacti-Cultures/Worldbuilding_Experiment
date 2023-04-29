@@ -1,0 +1,20 @@
+Noun: Selkies
+Society: Robust
+Physical: Necrocracy
+Positive: Respectful
+Negative: Discordant
+Culture: Adventure
+Events: Uprising
+Geography: Peaks
+Religion: Paganism
+Economics: Socialism
+Diets: Planktivorous
+Tech: Geothermal
+Nature: Dominant
+Conflict: Avoidance
+Occupations: Farmer
+Symbols: Wind
+Architecture: Cave dwellings
+Language: Vowel-heavy
+Fashion: Muted
+Laws: Libertarian

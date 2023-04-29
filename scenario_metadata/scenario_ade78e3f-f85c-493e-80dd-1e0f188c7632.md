@@ -1,0 +1,20 @@
+Noun: Zombies
+Society: Veined
+Physical: Protectorate
+Positive: Committed
+Negative: Unreliable
+Culture: Kinship
+Events: Famine
+Geography: Glaciers
+Religion: Dualism
+Economics: Green economy
+Diets: Oophagous
+Tech: Arcane
+Nature: Coexistent
+Conflict: Avoidance
+Occupations: Brewer
+Symbols: Ice
+Architecture: Fort
+Language: Tonal
+Fashion: Armored
+Laws: Theocratic

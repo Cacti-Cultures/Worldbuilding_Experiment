@@ -1,0 +1,20 @@
+Noun: Norns
+Society: Shimmering
+Physical: Ergatocracy
+Positive: Courageous
+Negative: Anxious
+Culture: Honor
+Events: Revolution
+Geography: Canyons
+Religion: Monotheism
+Economics: Barter
+Diets: Nectarivorous
+Tech: Geothermal
+Nature: Exploitative
+Conflict: Capitulation
+Occupations: Blacksmith
+Symbols: Wolf
+Architecture: Cave dwellings
+Language: Polysynthetic
+Fashion: Feathered
+Laws: Oligarchic

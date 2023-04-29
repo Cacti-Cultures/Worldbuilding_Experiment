@@ -1,0 +1,10 @@
+Stone Age
+Bronze Age
+Iron Age
+Medieval
+Renaissance
+Industrial
+Arcane
+Primordial
+Wind
+Geothermal

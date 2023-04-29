@@ -1,0 +1,20 @@
+Noun: Mandrakes
+Society: Vibrant
+Physical: Heptarchy
+Positive: Dependable
+Negative: Unstable
+Culture: Independence
+Events: Revolution
+Geography: Canyons
+Religion: Theism
+Economics: Communalism
+Diets: Folivorous
+Tech: Renaissance
+Nature: Ignorant
+Conflict: Subterfuge
+Occupations: Shaman
+Symbols: Fire
+Architecture: Underwater city
+Language: Guttral
+Fashion: Decorative
+Laws: Matrilineal

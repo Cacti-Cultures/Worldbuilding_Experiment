@@ -1,0 +1,9 @@
+In the fiery peaks of the ogre society, discipline was strictly enforced by the gerontocracy. The ogres were herbivorous and had an industrialized economy based on mercantilism. Despite their proactive nature, their culture was vengeful and aggressive towards outsiders. The ogres lived in cliffside dwellings and worked as miners, exploiting the resources of the mountains.
+
+One day, a plague swept through the ogre society, leaving many in a desperate state. The ogres turned to their theistic beliefs, praying to the dragon for salvation. But as the situation worsened, their anarchic laws led to chaos and conflict amongst the desperate population.
+
+In the midst of the turmoil, a group of young ogres emerged as leaders, challenging the gerontocracy's authority. They proposed a new way of governing, one that prioritized the well-being of the society as a whole. Their inflected language and naturalistic fashion earned them the support of many, who saw them as a beacon of hope in the midst of the crisis.
+
+As the plague continued to ravage their society, the young leaders implemented proactive measures to contain its spread. They organized a disciplined response, implementing strict laws that prevented the spread of the disease. Their efforts paid off, and the society slowly began to recover.
+
+With their success, the young leaders ushered in a new era for the ogre society. They embraced a more compassionate approach, one that encouraged cooperation and empathy towards outsiders. While their culture remained fiery and their nature exploitative, the ogres had learned the value of discipline and compassion.

@@ -1,0 +1,20 @@
+Noun: Yuki-onna
+Society: Sturdy
+Physical: Collective
+Positive: Disciplined
+Negative: Dull
+Culture: Spirituality
+Events: Cataclysm
+Geography: Steppes
+Religion: Theism
+Economics: Green economy
+Diets: Oophagous
+Tech: Primordial
+Nature: Protective
+Conflict: Aggressive
+Occupations: Warrior
+Symbols: Stars
+Architecture: Yurt
+Language: Rhythmic
+Fashion: Minimalistic
+Laws: Anarchic

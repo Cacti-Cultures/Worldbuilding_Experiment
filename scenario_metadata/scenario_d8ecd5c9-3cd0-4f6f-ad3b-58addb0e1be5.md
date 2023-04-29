@@ -1,0 +1,20 @@
+Noun: Asuras
+Society: Lanky
+Physical: Allodialism
+Positive: Zealous
+Negative: Neglectful
+Culture: Stoic
+Events: Famine
+Geography: Peaks
+Religion: Pantheism
+Economics: Capitalism
+Diets: Hematophagous
+Tech: Stone Age
+Nature: Protective
+Conflict: Retribution
+Occupations: Scribe
+Symbols: Oak
+Architecture: Castle
+Language: Inflected
+Fashion: Functional
+Laws: Libertarian

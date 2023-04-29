@@ -1,0 +1,20 @@
+Noun: Selkies
+Society: Glassy-eyed
+Physical: Hierocracy
+Positive: Prudent
+Negative: Greedy
+Culture: Liberty
+Events: War
+Geography: Peaks
+Religion: Ancestor-worship
+Economics: Capitalism
+Diets: Insectivorous
+Tech: Bronze Age
+Nature: Nurturing
+Conflict: Diplomatic
+Occupations: Gatherer
+Symbols: Phoenix
+Architecture: Dome
+Language: Logographic
+Fashion: Embroidered
+Laws: Constitutional

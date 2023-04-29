@@ -1,0 +1,20 @@
+Noun: Sylphs
+Society: Gilled
+Physical: Minarchism
+Positive: Adaptable
+Negative: Incompetent
+Culture: Creativity
+Events: Flood
+Geography: Marshlands
+Religion: Ancestor-worship
+Economics: Anarcho-capitalism
+Diets: Scavenger
+Tech: Medieval
+Nature: Reverent
+Conflict: Passive
+Occupations: Brewer
+Symbols: Bear
+Architecture: Cliffside dwellings
+Language: Isolating
+Fashion: Draped
+Laws: Constitutional

@@ -1,0 +1,20 @@
+Noun: Krakens
+Society: Shadowy
+Physical: Bureaucracy
+Positive: Tactful
+Negative: Rejecting
+Culture: Industrious
+Events: Revolution
+Geography: Marshlands
+Religion: Druidism
+Economics: Corporatism
+Diets: Scavenger
+Tech: Iron Age
+Nature: Nurturing
+Conflict: Intimidation
+Occupations: Warrior
+Symbols: Hawk
+Architecture: Dome
+Language: Agglutinative
+Fashion: Decorative
+Laws: Constitutional

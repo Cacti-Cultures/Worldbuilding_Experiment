@@ -1,0 +1,20 @@
+Noun: Einherjar
+Society: Horned
+Physical: Celestocracy
+Positive: Hopeful
+Negative: Tardy
+Culture: Spirituality
+Events: Reformation
+Geography: Badlands
+Religion: Apatheism
+Economics: Capitalism
+Diets: Planktivorous
+Tech: Arcane
+Nature: Protective
+Conflict: Passive
+Occupations: Artisan
+Symbols: Willow
+Architecture: Stilt houses
+Language: Vowel-heavy
+Fashion: Ritualistic
+Laws: Democratic

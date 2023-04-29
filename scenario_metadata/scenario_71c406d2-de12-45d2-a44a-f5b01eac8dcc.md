@@ -1,0 +1,20 @@
+Noun: Satyrs
+Society: Hunched
+Physical: Celestocracy
+Positive: Open-minded
+Negative: Undisciplined
+Culture: Justice
+Events: Invasion
+Geography: Plateau
+Religion: Spiritualism
+Economics: Corporatism
+Diets: Planktivorous
+Tech: Bronze Age
+Nature: Devotional
+Conflict: Intimidation
+Occupations: Blacksmith
+Symbols: Dragon
+Architecture: Dome
+Language: Agglutinative
+Fashion: Futuristic
+Laws: Fascist

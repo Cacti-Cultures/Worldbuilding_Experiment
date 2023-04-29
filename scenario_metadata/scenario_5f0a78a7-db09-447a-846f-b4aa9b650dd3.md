@@ -1,0 +1,20 @@
+Noun: Trolls
+Society: Winged
+Physical: Patriarchy
+Positive: Optimistic
+Negative: Unoriginal
+Culture: Harmony
+Events: Prosperity
+Geography: Coral Reefs
+Religion: Agnosticism
+Economics: Distributism
+Diets: Planktivorous
+Tech: Renaissance
+Nature: Destructive
+Conflict: Adaptation
+Occupations: Trader
+Symbols: Mountain
+Architecture: Terraced
+Language: Logographic
+Fashion: Embroidered
+Laws: Constitutional
