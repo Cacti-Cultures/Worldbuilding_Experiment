@@ -82,25 +82,25 @@ def chatgpt_completion(messages):
 
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, signal_handler)
-    scenario_folder = 'scenarios'
-    action_folder = 'actions'
+    generation_folder = '1_gen'
+    action_folder = '2_actions'
     
     system_message = open_file('system_action.txt')
 
-    for scenario_file in os.listdir(scenario_folder):
-        scenario_filepath = os.path.join(scenario_folder, scenario_file)
-        action_filepath = os.path.join(action_folder, scenario_file)
+    for generation_file in os.listdir(generation_folder):
+        generation_filepath = os.path.join(generation_folder, generation_file)
+        action_filepath = os.path.join(action_folder, generation_file)
 
 
         if os.path.exists(action_filepath):
             continue
 
-        scenario = open_file(scenario_filepath)
+        generation = open_file(generation_filepath)
         messages = [
             {"role": "system", "content": system_message},
-            {"role": "user", "content": scenario},
+            {"role": "user", "content": generation},
         ]
         action = chatgpt_completion(messages)
-        print('\n\n===============\n\n\nScenario:\n', scenario, '\n\nAction:\n', action)
+        print('\n\n===============\n\n\nScenario:\n', generation, '\n\nAction:\n', action)
         save_file(action_filepath, action)
     exit()
